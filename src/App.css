@@ -122,8 +122,6 @@ h1 {
     min-height: 35rem;
   }
   .tab__header li {
-    /* padding: 1rem; */
-
     font-size: 1.6rem;
   }
 
@@ -139,33 +137,4 @@ h1 {
   .tab__content p {
     font-size: 1.6rem;
   }
-
-  /* .main__container {
-    max-width: 95%;
-    margin: 0 auto;
-    padding: 2rem;
-  }
-
-  .tab__container {
-    max-width: 80%;
-    padding: 1.5rem;
-  }
-
-  .tab__header li {
-    font-size: 1.6rem;
-    padding: 1rem;
-  }
-
-  .tab__content {
-    min-height: 0;
-  }
-  .tab__content img {
-    max-width: 20rem;
-    max-height: 15rem;
-    width: 100%;
-  }
-
-  .tab__content p {
-    font-size: 1.6rem;
-  } */
 }
